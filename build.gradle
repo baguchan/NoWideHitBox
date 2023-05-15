@@ -25,9 +25,9 @@ mixin {
     add sourceSets.main, "no_wide_hitbox.refmap.json"
 }
 
-version = '1.0.0'
+version = '1.19.2-1.0.0'
 group = 'baguchan.no_wide_hitbox' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = 'No Wide HitBox-1.19.2'
+archivesBaseName = 'No Wide HitBox'
 
 // Mojang ships Java 17 to end users in 1.18+, so your mod should target Java 17.
 java.toolchain.languageVersion = JavaLanguageVersion.of(17)
