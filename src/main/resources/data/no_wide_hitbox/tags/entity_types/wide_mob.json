@@ -1,0 +1,7 @@
+{
+  "values": [
+    "#no_wide_hitbox:collidable",
+    "minecraft:spider",
+    "minecraft:cave_spider"
+  ]
+}
